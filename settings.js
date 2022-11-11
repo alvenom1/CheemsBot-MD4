@@ -73,10 +73,10 @@ global.packname = "ALVenom" //ur sticker watermark packname
 global.author = "ALVenom" //ur sticker watermark author
 
 //Bot theme media
-global.thum = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
-global.log0 = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur logo pic
-global.err4r = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur error pic
-global.thumb = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
+global.thum = fs.readFileSync("./https://mrkzgulfup.com/uploads/166814590795311.jpeg") //ur thumb pic
+global.log0 = fs.readFileSync("./https://mrkzgulfup.com/uploads/166814590795311.jpeg") //ur logo pic
+global.err4r = fs.readFileSync("./https://mrkzgulfup.com/uploads/166814590795311.jpeg") //ur error pic
+global.thumb = fs.readFileSync("./https://mrkzgulfup.com/uploads/166814590795311.jpeg") //ur thumb pic
 
 //damtabase
 global.premium = ['+96597903888'] //ur premium numbers
@@ -106,7 +106,7 @@ global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
     success: 'تم يالحبيب ✓',
-    admin: 'هذه الميزه المشرفين !! ',
+    admin: 'هذه الميزه للمشرفين !! ',
     botAdmin: 'يجب أن يكون البوت مسؤولاً أولاً!',
     owner: 'هذه الميزة للمالك فقط!',
     group: 'لميزة تستخدم فقط للمجموعات!',
